@@ -1,11 +1,12 @@
 ### 👋 Hi there, I'm @arinjay-gangwar
 
-- 👀 I'm passionate about building scalable global e-commerce platforms.
-- 🌱 Currently diving into **Atomic Design principles** and **React.js**.
-- 🤝 Open to collaborations on **application development** projects.
+Frontend Developer with 2+ years of experience building global e-commerce platforms that enhance user experience and drive conversions (20%+ gains). Skilled in developing scalable, cloud-native solutions using **Vue.js**, **Nuxt.js**, and **React.js**. I’m passionate about clean code, performance optimization, and transforming designs into engaging, accessible user interfaces.
+
+- 🌱 Currently learning **Atomic Design principles** and **React.js**
+- 🤝 Open to collaborations on **application development** projects
 - 📫 Reach me at: **arinjay.gangwar@digitup.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I love playing **Cricket** and **Table Tennis**!
+- ⚡ Fun fact: I love playing **Cricket** and **Table Tennis**
 
 ---
 
@@ -48,17 +49,23 @@
 
 ---
 
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arinjay-gangwar)
-
----
-
 ## 📊 GitHub Stats
 
 ![Arinjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arinjay-gangwar&show_icons=true&theme=default)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arinjay-gangwar&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinjay-gangwar&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinjay-gangwar&layout=compact)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arinjay-gangwar&theme=default)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=arinjay-gangwar&margin-w=10&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arinjay-gangwar)
 
 ---
 
