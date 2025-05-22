@@ -8,6 +8,8 @@ Frontend Developer with 2+ years of experience building global e-commerce platfo
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love playing **Cricket** and **Table Tennis**
 
+![Visitor Badge](https://komarev.com/ghpvc/?username=arinjay-gangwar&style=for-the-badge)
+
 ---
 
 ## 🛠 Technical Skills
@@ -15,7 +17,7 @@ Frontend Developer with 2+ years of experience building global e-commerce platfo
 ### 🔧 Core Technologies  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)  
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white)  
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt&logoColor=white)  
 ![Contentful](https://img.shields.io/badge/Contentful-2478CC?logo=contentful&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
@@ -49,27 +51,21 @@ Frontend Developer with 2+ years of experience building global e-commerce platfo
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
-![Arinjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arinjay-gangwar&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinjay-gangwar&layout=compact)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arinjay-gangwar&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arinjay-gangwar&theme=highcontrast&short_numbers=true&exclude_days=Sat%2CSun)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=arinjay-gangwar&margin-w=10&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=arinjay-gangwar&rank=-?&theme=gruvbox&margin-w=10&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arinjay-gangwar)
-
----
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=arinjay-gangwar&style=flat-square)
 
 <!---
 arinjay-gangwar/arinjay-gangwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
