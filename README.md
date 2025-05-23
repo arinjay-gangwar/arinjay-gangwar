@@ -18,7 +18,7 @@ Frontend Developer with 2+ years of experience building global e-commerce platfo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=for-the-badge)  ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt&logoColor=white&style=for-the-badge)  ![Contentful](https://img.shields.io/badge/Contentful-2478CC?logo=contentful&logoColor=white&style=for-the-badge)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 
 ### 📡 APIs  
-![REST](https://img.shields.io/badge/REST-02569B?logo=protocols.io&logoColor=white&style=for-the-badge)  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
+![REST](https://img.shields.io/badge/REST-02569B?&style=for-the-badge)  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
 
 ### 🧰 Tools & Practices  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)  ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)  ![SDLC](https://img.shields.io/badge/SDLC-007ACC?logo=azuredevops&logoColor=white&style=for-the-badge)  ![Agile](https://img.shields.io/badge/Agile-0277BD?logo=scrumalliance&logoColor=white&style=for-the-badge)  ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=agile&logoColor=white&style=for-the-badge)
