@@ -25,7 +25,7 @@ Frontend Developer with 2+ years of experience building global e-commerce platfo
 
 ### 📚 Familiar With  
 **Languages:**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)  ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![React.js](https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)  ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 
 **Platforms:**  
 ![Alokai](https://img.shields.io/badge/Alokai-00DC82?logo=vue.js&logoColor=white&style=for-the-badge)  ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white&style=for-the-badge)  ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)
