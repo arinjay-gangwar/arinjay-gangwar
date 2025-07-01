@@ -37,7 +37,7 @@ Frontend Developer with 2+ years of experience building global e-commerce platfo
 
 ## 📊 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arinjay-gangwar&theme=highcontrast&show_icons=true&short_numbers=true&exclude_days=Sat%2CSun)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arinjay-gangwar&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ---
 
