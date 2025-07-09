@@ -74,5 +74,5 @@ Frontend developer with **2+ years** of experience delivering scalable, high-per
 
 <!---
 arinjay-gangwar/arinjay-gangwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-To explore more of my projects and experiments, check out [@arinjay-alt](https://github.com/arinjay-alt)
+To explore more of my projects and experiments, check out [@arinjayg](https://github.com/arinjayg)
 --->
