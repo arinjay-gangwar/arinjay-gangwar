@@ -59,7 +59,7 @@ Frontend developer with **2+ years** of experience delivering scalable, high-per
 ## 🏆 GitHub Highlights
 
 ### 💡 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinjay-gangwar&hide_progress=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinjay-gangwar&&layout=compact)
 
 ### 🔥 Streak Stats  
 [![GitHub Streak](https://streak-stats.demolab.com?user=arinjay-gangwar&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200)](https://git.io/streak-stats)
