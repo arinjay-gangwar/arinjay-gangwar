@@ -17,7 +17,7 @@ Frontend developer with **2+ years** of experience delivering scalable, high-per
 📬 Email me at: **arinjay.gangwar100@gmail.com**  
 🔗 Also check out my alternate GitHub: [@arinjayg](https://github.com/arinjayg)  
 😄 Pronouns: **He/Him**  
-🏏 Fun fact: I love playing **Cricket** and **Table Tennis**
+🏏 Hobbies: I love playing **Cricket** and **Table Tennis**
 
 ![Visitor count for arinjay-gangwar](https://komarev.com/ghpvc/?username=arinjay-gangwar&style=for-the-badge)
 
