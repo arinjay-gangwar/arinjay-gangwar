@@ -20,6 +20,7 @@ I specialize in **Vue/Nuxt (Alokai)** and **Contentful**-driven headless commerc
 📬 arinjay.gangwar100@gmail.com  
 🔗 [linkedin.com/in/arinjay-gangwar](https://www.linkedin.com/in/arinjay-gangwar)  
 🏆 [credly.com/users/arinjay-gangwar](https://www.credly.com/users/arinjay-gangwar)  
+🎖️ Alternate GitHub: [@arinjayg](https://github.com/arinjayg)  
 😄 Pronouns: He/Him  
 🏏 Hobbies: Cricket & Table Tennis
 
