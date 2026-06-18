@@ -81,13 +81,13 @@ I specialize in **Vue/Nuxt (Alokai)** and **Contentful**-driven headless commerc
 ## 📊 GitHub Stats
 
 ### 💡 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinjay-gangwar&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinjay-gangwar&layout=compact)
 
 ### 🔥 Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=arinjay-gangwar&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=arinjay-gangwar&theme=dark&border_radius=8&exclude_days=Sun%2CSat&card_width=500&card_height=200)
 
 ### 🏆 Trophies
-[![Trophy](https://github-profile-trophy.vercel.app/?username=arinjay-gangwar&rank=-?&theme=gruvbox&margin-w=10&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophy](https://gh-trophy.cdnsoft.net/?username=arinjay-gangwar&theme=discord&title=Commits)
 
 ---
 
