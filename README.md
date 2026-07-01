@@ -81,7 +81,7 @@ I specialize in **Vue/Nuxt (Alokai)** and **Contentful**-driven headless commerc
 ## 📊 GitHub Stats
 
 ### 💡 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arinjay-gangwar&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=arinjay-gangwar&layout=compact)
 
 ### 🔥 Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=arinjay-gangwar&theme=dark&border_radius=8&exclude_days=Sun%2CSat&card_width=500&card_height=200)
