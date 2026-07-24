@@ -87,7 +87,7 @@ I specialize in **Vue/Nuxt (Alokai)** and **Contentful**-driven headless commerc
 ![GitHub Streak](https://streak-stats.demolab.com?user=arinjay-gangwar&theme=dark&border_radius=8&exclude_days=Sun%2CSat&card_width=500&card_height=200)
 
 ### 🏆 Trophies
-![Trophy](https://gh-trophy.cdnsoft.net/?username=arinjay-gangwar&theme=discord&title=Commits)
+![Trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=arinjay-gangwar&theme=discord&title=Commits)
 
 ---
 
